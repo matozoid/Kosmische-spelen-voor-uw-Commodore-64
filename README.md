@@ -2,6 +2,7 @@
 
 Scans van het boek "Kosmische spelen voor uw Commodore 64"
 
+Gebruikt voor [het boek op archive.org](https://archive.org/details/kosmische-spelen-voor-uw-commodore-64).
 
 Zo verwarrend... Het boek zegt een vertaling te zijn van "Cosmic games for your Commodore 64",
 maar dat boek lijkt niet te bestaan.

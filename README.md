@@ -11,3 +11,5 @@ Het boek lijkt geschreven door [twee Nederlanders, Kasper Boon en Alex Pelsmaeke
 Deze worden ook genoemd in de dankbetuiging, dus ze bedanken zichzelf :-)
 
 Heb je iets ingetypt? Open een issue, dan zet ik het hierbij.
+
+Met dank aan Rob Alderden voor zijn bijdragen.
